@@ -1,0 +1,86 @@
+.footer{
+    background: #d9d7d7;
+    position: relative;
+    height: 250px;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 0px; 
+    display: block;
+    margin:  0px;
+    width: 100%;
+  }
+  .footer-border-line{
+    width: 600px;
+    margin-left: 450px;
+    padding-top: 0px;
+    margin-bottom: 40px;
+    border-bottom-width: 2px;
+    margin-top: -1px;
+    border-bottom: 2px solid #666;
+    max-width: 100%;
+
+  }
+   .main-footer{
+    
+    width: 100%;
+
+  }
+  .footer-container{
+    display: flex;
+    padding-right: 50px;
+    padding-left: 50px;
+    margin: auto 50px auto 250px;
+   
+
+  }
+  .footer-logo{
+    text-align: center;
+    padding-top: 30px;
+    margin-left: 0px;
+    margin-right: 100px;
+
+  }
+  .footer-heading{
+    text-align: center;
+    margin-left: 25px;
+    margin-right: 200px;
+    padding-bottom: 10px;
+    
+    
+  }
+.footer-title{
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-bottom: 10px;
+
+}
+.address{
+    padding-left: 0px;
+    padding-right: 110px;
+}
+.footer-bar{
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #454040;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #9d9c9c;
+
+}
+.copyright{
+    display: flex;
+    align-items: center;
+    position: relative;
+    margin-right: 100px;
+    margin-left: 100px;
+    padding-left: 15px;
+    padding-right: 15px;
+    justify-content: center;
+
+    
+}
+.footer-social{
+    position: relative;
+    line-height: 12.8px;
+}

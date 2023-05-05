@@ -1,0 +1,45 @@
+.gallary-hero{
+    height: 100px;
+    width: 100%;
+    ;
+}
+.gallary-main-container {
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    text-align: center;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 50px; 
+    padding-bottom: 100px;
+    display: block;
+}
+.gallary-container {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    
+}
+img {
+    transition: transform 2s;
+}
+
+img:hover {
+    transform: scale(1.2);
+}
+.gallary-img{
+    height: 200px;
+    width: 350px;
+    
+}
+
+.corporate-service-img-container{
+    margin-top: 80px;
+    margin-left: 0px;
+
+}
+.corporate-service-img{
+    height: 300px;
+    width: 300px;
+
+}
